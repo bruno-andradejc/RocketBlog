@@ -173,3 +173,9 @@
   .card3 {
     width: 27%;
   }
+
+  @media (max-width:1330px) {
+    .cabeca img {
+    border-radius: 10px;
+    }
+  }
